@@ -1,0 +1,53 @@
+{
+  "title": "Code and derived data for: From Apprentice to Executive: A Century of Neurosurgical Chair Selection",
+  "description": "<p>Analysis code and derived tables for a study of how the chairs of US and Canadian academic neurosurgery departments have been selected over a century. The data come from NeurosurGen.com: 9,414 neurosurgeons, 340 institutions listed as training sites (142 US and Canadian programs with recorded chair or program director terms) and 1,574 chair and program director terms, including 703 first chair appointments and 681 successions.</p><p>The deposit contains the full analysis pipeline in Python (data build, career stage and tenure models, self-hiring and concentration against explicit expectations, direction of chair placement, mentor models and figures), every aggregate output table, and the supplemental tables and figures under their manuscript numbers.</p><p>Person-level NeurosurGen records are not redistributed. NeurosurGen Inc. maintains the database, and the analytic dataset is available from the corresponding author on reasonable request.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "v1.0.0",
+  "language": "eng",
+  "keywords": [
+    "neurosurgery",
+    "department chair",
+    "academic leadership",
+    "succession",
+    "self-hiring",
+    "residency training",
+    "academic genealogy",
+    "network analysis"
+  ],
+  "creators": [
+    {
+      "name": "Kurland, David B.",
+      "affiliation": "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"
+    },
+    {
+      "name": "Gajjar, Avi A.",
+      "affiliation": "Department of Neurosurgery, Albany Medical College, Albany, NY, USA; NeurosurGen Inc., Augusta, GA, USA"
+    },
+    {
+      "name": "Asaad, Wael F.",
+      "affiliation": "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"
+    },
+    {
+      "name": "Alleyne, Cargill H. Jr.",
+      "affiliation": "NeurosurGen Inc., Augusta, GA, USA; Piedmont Augusta Neurosciences, Augusta, GA, USA"
+    },
+    {
+      "name": "Kondziolka, Douglas",
+      "affiliation": "Department of Neurosurgery, New York University Langone Medical Center, New York, NY, USA"
+    },
+    {
+      "name": "Golfinos, John G.",
+      "affiliation": "Department of Neurosurgery, New York University Langone Medical Center, New York, NY, USA"
+    },
+    {
+      "name": "Oermann, Eric K.",
+      "affiliation": "Department of Neurosurgery, New York University Langone Medical Center, New York, NY, USA"
+    },
+    {
+      "name": "Gokaslan, Ziya L.",
+      "affiliation": "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"
+    }
+  ]
+}

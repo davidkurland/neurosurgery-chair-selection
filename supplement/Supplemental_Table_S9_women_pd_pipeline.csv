@@ -1,0 +1,10 @@
+denominator,era,pd_appointments,women_observed,women_expected,ratio,p_lower
+all,1990-2009,209,5,9.1,0.55,0.1058
+all,2010-present,213,21,21.3,0.99,0.5248
+all,1990-present,422,26,30.5,0.85,0.231
+leader,1990-2009,209,5,5.1,0.98,0.6006
+leader,2010-present,213,21,23.6,0.89,0.3414
+leader,1990-present,422,26,27.9,0.93,0.397
+academic,1990-2009,209,5,7.5,0.66,0.2361
+academic,2010-present,213,21,22.4,0.94,0.4347
+academic,1990-present,422,26,29.2,0.89,0.3143

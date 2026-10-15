@@ -1,0 +1,6 @@
+era,first_appointments,obs_yrs_since_grad_mean,workforce_yrs_since_grad_mean,percentile_in_workforce_experience,n_with_birth,obs_age_mean,workforce_age_mean,percentile_in_workforce_age
+<1950,92,7.1,12.5,0.26,92,38.0,42.6,0.319
+1950-1969,114,9.8,15.2,0.29,112,41.9,44.5,0.316
+1970-1989,142,11.2,17.9,0.279,142,43.9,50.6,0.251
+1990-2009,178,15.0,19.3,0.372,178,47.9,51.0,0.416
+2010-2026,163,16.4,20.2,0.382,162,50.6,54.0,0.375

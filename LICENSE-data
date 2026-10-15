@@ -1,0 +1,13 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 David B. Kurland, Avi A. Gajjar, Wael F. Asaad, Cargill H. Alleyne, Jr., Douglas Kondziolka, John G. Golfinos, Eric K. Oermann, Ziya L. Gokaslan
+
+The contents of `data/` and `supplement/` are licensed under CC BY 4.0.
+You are free to share and adapt this material for any purpose, provided you give
+appropriate credit. Full text: https://creativecommons.org/licenses/by/4.0/
+
+Note on source records: person-level NeurosurGen.com records are not included.
+NeurosurGen Inc. maintains the database. The files here are aggregate tables
+produced by the authors.
+
+Code in `code/` is licensed separately under the MIT License; see LICENSE.

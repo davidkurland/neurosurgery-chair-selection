@@ -1,0 +1,4 @@
+era,ratio_boot_median,denominator_ci_low,denominator_ci_high,p_combined
+1990-2009,0.8,0.62,1.1,0.39
+2010-present,0.8,0.71,0.93,0.251
+1990-present,0.8,0.7,0.95,0.201

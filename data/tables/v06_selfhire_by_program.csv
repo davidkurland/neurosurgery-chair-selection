@@ -1,0 +1,129 @@
+institution_id,successions,own_graduate,institution
+d27761b0-3290-4bdb-92bb-6dad80b0cb6a,6,6,New York Presbyterian / Columbia
+e7e35986-7c3e-458a-a40a-30ebf38949a4,6,5,Univ. of Toronto
+fe142bca-a228-492a-bd35-4cf720978bce,6,4,Mayo Clinic
+3e7df698-dccc-4ff2-94ef-e34dd1b1c355,5,4,National Capital Consortium
+922282e0-1ab1-40cc-8913-283ae9d64b47,5,4,Duke University Hospital
+3ee43da1-07df-42c8-be82-3d8741ea81dc,4,4,Stanford University
+253bc303-16d0-4347-882a-273cd6b4a954,6,3,Univ. of Illinois / Peoria
+836b0e88-09a7-4127-8a97-da35a7ce8e81,6,3,Univ. of Chicago
+365b410e-8af2-48f7-a202-a9a78f4821ef,5,3,Univ. of Illinois at Chicago
+cac68b2a-50fd-499f-8b07-904e61a6aa05,5,3,Temple University
+5c70292a-e52a-4d5f-afd5-953ea52b29b5,4,3,Albany Medical Center
+13b5ff3b-04a2-48fe-8dff-468ae4380f66,3,3,Univ. of Virginia
+14d3205b-c015-4b44-b3e8-a0bf6ac4f1df,3,3,Univ. of California / San Francisco
+50849df3-b539-4ea8-9522-8605f213a4ab,3,3,Massachusetts General Hospital
+1c0f2b1a-03ba-4606-9cf9-3e672a24f3bd,7,2,SUNY Syracuse
+39bbb33e-8417-4a94-8984-a4bad29ceb1b,7,2,Cleveland Clinic
+950362cd-8f97-4f84-aede-269b447e89c1,6,2,Univ. of Minnesota
+e0fec711-4336-454b-8015-69806c52a964,6,2,Loyola University
+50a84ff8-ec88-41ab-b9cb-0c00afaf38d8,5,2,Univ. of Tennessee / Memphis
+e6a169b8-7e89-4b97-b18e-5d3a75105606,5,2,Virginia Commonwealth University
+20e80129-32d0-4e27-8cb6-6a1dd83fafdd,4,2,Dartmouth-Hitchcock
+7adf3696-39f5-4fb8-9c49-7d7fe3db1c08,4,2,Univ. of Texas / Southwestern
+7e613273-51d8-46f1-a818-64159c367822,4,2,Wake Forest University
+c3c3d6e2-e83d-40fe-a41e-6ed7c0bcfd22,4,2,Univ. of Rochester
+c95d73ec-5a1d-48c8-8dd0-b6ebbf1d1096,4,2,Univ. of Mississippi
+d4e27509-c6d2-45a3-9663-8b2bf2d97e03,4,2,Tufts Medical Center
+07af872e-91a3-4463-9382-734404050679,3,2,Case Western Reserve
+f25c01be-b821-479a-85e0-5e0e946d1eea,2,2,Yale University
+3615a555-2d61-4da6-ac3c-061f2d20272f,10,1,Northwestern University
+0a7aeb84-7d57-472f-8243-c9aa951a9186,7,1,Hahnemann U./Medical Col. Of Pennsylvania (became Drexel in 2002)
+272d49ed-fd54-4756-9fb1-27e70b4b61cc,7,1,Univ. of California / Davis
+fba87f00-fca5-45ca-9c4b-7998dc1d1afb,7,1,Montefiore Medical Center / Albert Einstein
+11ce5c79-1c05-416f-b87c-9dd5d3ed4d7c,5,1,Wayne State University (defunct in 2020)
+978bfbc7-992a-4190-a9ac-4e631db2037a,5,1,Thomas Jefferson University
+b73fcb28-181d-4fcb-b304-8e599ebaaffe,5,1,National Naval Medical Center (NNMC-Bethesda)
+e3149f09-58e0-4664-8d34-457170dd63fd,5,1,Univ. of Maryland
+ea6bde7c-77bb-4213-b4d0-1c491e160d3f,5,1,Univ. of Texas / Galveston
+fab2c91e-005b-495d-93f3-a144694f7f42,5,1,SUNY Buffalo
+0b3090b4-37c6-455f-8971-9c6335e09afd,4,1,Baylor College of Medicine
+1bf235a7-1490-46cf-afcb-decab6a90870,4,1,Univ. of Alabama
+366340cf-dd73-4fa3-9cd9-f21e3911ef7e,4,1,New York Presbyterian / Cornell
+3f3b654b-3e48-489c-8ffb-a8514e7883f2,4,1,Medical College of Wisconsin
+428426a8-aef4-476a-ae2d-77390ef2f9ed,4,1,Univ. of Kentucky
+43f9ebd3-3422-41e8-a3f4-2f3968d7ee75,4,1,Univ. of Kansas
+4acc0ca7-e3f1-4958-863e-844a8ae10913,4,1,Univ. of Puerto Rico
+5eaa49fa-d909-4e68-9997-96364fb9fb1b,4,1,Univ. of Pittsburgh
+7cb7a49f-dc00-48ba-a39f-271b644119c1,4,1,Tulane University
+b4f7eb30-4926-443f-9c6a-f5dcd8edcb84,4,1,Univ. of Nebraska
+f2e3bc20-3cfd-4edf-988f-73db8487e306,4,1,Walter Reed
+09041109-d46f-4eeb-a0af-f75962427958,3,1,Univ. of California / Los Angeles
+0b47c235-f168-4d88-a50a-1b456c24030d,3,1,Johns Hopkins University
+24b20ccb-cec2-45da-8138-980974b866b8,3,1,Mount Sinai
+2f11d81a-79c2-4e43-b07f-3e7acd258030,3,1,Washington University
+5c666959-ccd7-47b4-bd97-af9f7334bccd,3,1,Univ. of Washington
+673e9519-4cbd-4bbb-95a3-3ddda17977da,3,1,Univ. of Florida / Gainesville
+7bbff0b7-d708-488f-8d6f-ff2ee5ab8825,3,1,Medical University of South Carolina
+97dd85a8-4edd-47d5-adc8-84ea14740423,3,1,Emory University
+ab29c44e-0583-4118-ac96-a7367c61d065,3,1,Univ. of Missouri / Columbia
+b2acf028-9cde-487c-b1a0-ede52951a331,3,1,Oregon Health & Science University
+e7e53884-147c-430b-8543-6f939073154a,3,1,Cooper at Rowan University / Philadelphia College of Osteopathic Medicine
+efb0280e-5127-4670-9cab-ccdd2c8c8bae,3,1,Rush University
+f8c9d390-15ae-4698-842b-abe63f67d478,3,1,Barrow Neurological Institute
+81c4d9d6-c805-4662-9a76-37da3b2ee005,1,1,McGill / Montreal Neurological Inst.
+ea817318-e2c3-4adc-bb19-55b0aaeb39c7,12,0,Univ. of Arizona
+3291bbc4-160c-49a6-ad99-7d49a517a0aa,11,0,Univ. of California / Irvine
+73a35993-8482-4953-990f-ec28738fb1ee,11,0,Univ. of North Carolina
+4fb49f76-2f3c-4ff2-8596-04062e668eac,9,0,Univ. of New Mexico
+52c1befc-44eb-40df-a7c6-ed771bd9e066,9,0,Stroger Hospital (Cook County)
+6cdc10f8-9980-422f-b24b-2fedf34e3eeb,8,0,Rutgers / New Jersey Medical School
+dad055f7-4221-490a-a988-874c5c158b7e,8,0,Univ. of Oklahoma
+2870e379-995f-4d1f-b99c-a2a6d618728c,7,0,National Institutes of Health
+4d4c5ee0-c6c4-4f37-ad99-b7990778cc98,7,0,Geisinger Health System
+87d35811-5871-46cd-ae4a-24e0e872285b,7,0,Beth Israel Deaconess Medical Center
+d3a5fc65-fe0a-43c6-82d7-002ddfddcabe,7,0,Loma Linda University
+433de43a-fdde-4dd8-88b1-57d2c82be710,6,0,Univ. of Colorado
+6299c72e-cd24-4ab8-90b8-1dd48d93cbf6,6,0,Brown University
+71af346f-5b72-4412-9475-0cf568bcd7af,6,0,Penn State
+de86650d-b2c2-410e-98b1-cc3d90af252d,6,0,West Virginia University
+2a65ffd2-0cf2-4ea8-99a5-718cd80b9bab,5,0,Univ. of Texas / Houston
+3caaf3ec-e0db-471d-9f05-ce3aefc327d5,5,0,George Washington University
+8ac543ab-ff4c-4a36-844a-03d6dfd0f519,5,0,Medical College of Georgia
+9c20e0a7-4dbd-4c4b-ae22-36438ef1da5a,5,0,SUNY Brooklyn / Downstate (defunct in 2003)
+a8cf8847-fe46-47fa-bdb7-cd83e89abc39,5,0,Univ. of Louisville
+bb334676-84ef-4448-9a78-8dc2ac49de4f,5,0,Westchester Medical Center / New York Medical College
+e0c0119a-c4a7-4f83-93bc-667a606c0d50,5,0,Henry Ford Hospital
+edcde9d1-8989-49c1-9c68-df9f4de78fb0,5,0,Univ. of Arkansas
+faea28ad-d923-4413-a024-d6323ca46b85,5,0,Brigham and Women's Hospital
+0a2d78a8-28ab-4d7a-9f54-f5d1eca2aa37,4,0,Boston Medical Center
+11d4424b-c83a-4587-9a26-9743dbbde078,4,0,Ochsner Clinic
+517c47fd-bddb-43e6-9925-50d1d6e7abd0,4,0,Univ. of Cincinnati
+6cb45615-a7d6-4415-8e0d-200f8ad0ebeb,4,0,Univ. of Connecticut
+7e154641-25ef-4805-aa23-8a1067c21602,4,0,Louisiana State Univ. / Shreveport
+85de9b4c-5599-4246-b5b9-3c9a2ca00bcf,4,0,Univ. of Vermont
+dd94df0c-beea-42f5-8363-e73d578b139e,4,0,Lahey Clinic
+ddfd5c20-4f2e-4f26-9050-bc4a3a496684,4,0,Indiana University
+2c96a753-9454-4bb6-8ad3-fb5da7066ec1,3,0,Ohio State University
+39fbda21-53de-4beb-a5ff-f23f723b4bd4,3,0,Howard University
+3b742c10-9be0-47d0-a878-a2de443b4d1a,3,0,Univ. of Massachusetts
+47369e9f-3864-4fdc-87cf-f5adbeb08ab3,3,0,Univ. of Pennsylvania
+54e95ce7-94c7-461a-85b2-b7cea7302ca3,3,0,Cedars-Sinai Medical Center
+7c681537-4554-4342-9ea8-e4c307469781,3,0,Univ. of Utah
+7e98b3e2-ca19-40e9-9ac5-dda8dd5af40a,3,0,Univ. of Southern California
+834d9fd6-1598-421e-a756-34259c419ffc,3,0,St. Louis University
+bc69fb93-8916-4e28-aa74-f6d2a6b1cb17,3,0,Univ. of Texas / San Antonio
+cf96638b-fefa-4087-947b-3a77f249c507,3,0,University of Miami / Jackson Health
+d0e544ef-895d-4755-97d9-54b92618b461,3,0,Zucker SOM Hofstra / Northwell
+dd9121a3-a81d-41b1-b69b-5ab324c58401,3,0,Univ. of California / San Diego
+e803f190-787b-4873-97b2-9dac18b104d8,3,0,Carilion Clinic - Virginia Tech
+e903b6f8-5d0f-4d4c-850b-8cdb7620de93,3,0,Univ. of Michigan
+f816c0d3-da5f-4ff6-a4c1-a69862886ef9,3,0,Eastern Virgina (defunct in 1995)
+03fcafd3-29ea-49cd-ae79-0de8e8f1b4d5,2,0,Univ. of Iowa
+0fd1f5b3-97b3-4b29-b3bf-c2f47295ff1f,2,0,Vanderbilt University Medical Center
+18515806-fb65-401e-b8fa-e2e9fc9d6f71,2,0,UMDNJ / Robert Wood Johnson
+22b77610-fce4-44c5-ac18-e102e9fc845a,2,0,Georgetown University
+2a902e6f-82fb-4a68-88a9-a71057f65da2,2,0,Allegheny Health Network-Allegheny General Hospital
+4065bd7b-5791-47c4-9f06-3bfceb410760,2,0,Louisiana State Univ. / New Orleans
+4aae4d04-e1f7-451d-8c76-645d7b0ece6e,2,0,New York University
+637d1b27-12f1-426f-8f37-cd02beef0b74,2,0,Mayo Clinic Jacksonville
+84c57199-71cd-4df6-961f-a6d4b01ed88b,2,0,Stony Brook Medical Center
+b6ae3e9f-813c-4f5a-a1c2-3a74b0c3b718,2,0,Houston Methodist Hospital
+1972d9b1-bd19-40ee-83d7-8d327f1f388e,1,0,Mayo Clinic Arizona
+19cd78c7-00e1-4af0-b9f4-87e0f4cde43a,1,0,Southern Illinois University
+1fd839d3-8b8d-4a98-baa9-6fab52770bb2,1,0,Carle BroMenn Medical Center
+2f3a338f-a9d1-4e8a-a2ef-352a4fff5db1,1,0,Univ. of Texas / Austin
+72a653c8-8cb6-4760-99f3-65431b81f995,1,0,Univ. of South Florida
+ac682e00-327d-4096-8598-b4d1c8bde1fc,1,0,Spectrum Health / Michigan State University
+e8161ce6-09b8-47dd-a2e8-ca800559cf49,1,0,Carolinas Medical Center
+f1aa1565-c302-45db-afbd-04701e90c0c4,1,0,Univ. of Wisconsin / Madison

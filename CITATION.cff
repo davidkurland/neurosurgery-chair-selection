@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or these tables, please cite the archived release."
+title: "Code and derived data for: From Apprentice to Executive: A Century of Neurosurgical Chair Selection"
+type: dataset
+version: v1.0.0
+license: CC-BY-4.0
+authors:
+  - family-names: Kurland
+    given-names: David B.
+    affiliation: "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"
+  - family-names: Gajjar
+    given-names: Avi A.
+    affiliation: "Department of Neurosurgery, Albany Medical College, Albany, NY, USA; NeurosurGen Inc., Augusta, GA, USA"
+  - family-names: Asaad
+    given-names: Wael F.
+    affiliation: "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"
+  - family-names: Alleyne
+    given-names: Cargill H.
+    name-suffix: "Jr."
+    affiliation: "NeurosurGen Inc., Augusta, GA, USA; Piedmont Augusta Neurosciences, Augusta, GA, USA"
+  - family-names: Kondziolka
+    given-names: Douglas
+    affiliation: "Department of Neurosurgery, New York University Langone Medical Center, New York, NY, USA"
+  - family-names: Golfinos
+    given-names: John G.
+    affiliation: "Department of Neurosurgery, New York University Langone Medical Center, New York, NY, USA"
+  - family-names: Oermann
+    given-names: Eric K.
+    affiliation: "Department of Neurosurgery, New York University Langone Medical Center, New York, NY, USA"
+  - family-names: Gokaslan
+    given-names: Ziya L.
+    affiliation: "Department of Neurosurgery, Brown University Health and The Warren Alpert Medical School of Brown University, Providence, RI, USA"
+keywords:
+  - "neurosurgery"
+  - "department chair"
+  - "academic leadership"
+  - "succession"
+  - "self-hiring"
+  - "residency training"
+  - "academic genealogy"
+  - "network analysis"

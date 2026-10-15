@@ -1,0 +1,4 @@
+threshold,sensitivity_among_chairs_or_PDs,n_leaders,rate_among_non_leaders,n_non_leaders
+1,0.951,184,0.539,1805
+3,0.87,184,0.361,1805
+5,0.826,184,0.302,1805

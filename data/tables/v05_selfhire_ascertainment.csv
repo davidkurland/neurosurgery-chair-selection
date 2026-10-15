@@ -1,0 +1,13 @@
+null,era,successions,observed_n,observed_pct,expected_pct,ratio,p
+size: all graduates,1970+ pooled,547,114,20.8,0.81,25.7,0.0002
+size: graduates who became chairs,1970+ pooled,547,114,20.8,0.84,24.8,0.0002
+permutation,1970+ pooled,541,114,21.1,0.74,28.4,0.0002
+size: all graduates,1970-1989,155,35,22.6,0.93,24.2,0.0002
+size: graduates who became chairs,1970-1989,155,35,22.6,1.07,21.1,0.0002
+permutation,1970-1989,154,35,22.7,0.99,23.0,0.0002
+size: all graduates,1990-2009,204,42,20.6,0.74,28.0,0.0002
+size: graduates who became chairs,1990-2009,204,42,20.6,0.76,27.2,0.0002
+permutation,1990-2009,201,42,20.9,0.76,27.5,0.0002
+size: all graduates,2010-present,188,37,19.7,0.8,24.8,0.0002
+size: graduates who became chairs,2010-present,188,37,19.7,0.74,26.6,0.0002
+permutation,2010-present,186,37,19.9,0.75,26.7,0.0002

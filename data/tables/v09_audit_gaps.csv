@@ -1,0 +1,21 @@
+quantity,value,note
+selfhire_pre1970_vs_later_p,0.0288,"Fisher exact on [[40, 94], [114, 433]]; 29.9% vs 20.8%"
+selfhire_pre1970_vs_later_OR,1.62,"odds ratio, same table"
+birth_year_coverage_leaders_pct,99.1,886 graduates who ever led a program
+birth_year_coverage_other_graduates_pct,66.5,8146 other graduates
+programs_3plus_successions_since_1970,108,denominator for the shares below
+pct_programs_never_own_graduate,43.5,
+pct_programs_third_or_more_own,35.2,
+n_programs_third_or_more_own,38,
+n_programs_never_own_graduate,47,
+pct_programs_two_or_more_own,25.0,appointed their own graduate more than once
+top10_programs_share_of_selfhires_pct,34.2,39 of 114 self-hires since 1970
+women_chairs_pre-1970,0 of 223,"expected 0.0 from the all-graduate pipeline 9 y earlier (person x program unit, matching scripts/15)"
+women_chairs_1970-1989,0 of 172,"expected 0.4 from the all-graduate pipeline 11 y earlier (person x program unit, matching scripts/15)"
+pub_window_5_15_pct_after_appointment_before_1980,52.9,n = 136 chairs
+pub_window_5_15_pct_after_appointment_since_2010,19.0,n = 163 chairs
+pub_window_5_10_pct_after_appointment_before_1980,37.4,n = 136 chairs
+pub_window_5_10_pct_after_appointment_since_2010,7.5,n = 163 chairs
+median_graduation_to_chair_years_before_1980,9.0,n = 136 chairs
+median_graduation_to_chair_years_since_2010,16.0,n = 163 chairs
+fig1_appointments_not_drawn,14,of 787 North American chair appointments; no coordinates or off-map

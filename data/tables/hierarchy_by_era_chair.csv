@@ -1,0 +1,5 @@
+era,n_positions,n_producing_programs,gini_production,top5_share,top10_share,top20pct_programs_share,self_hire_rate,same_state_rate_external,median_distance_km_external,female_share,violation_fraction_under_overall_ranking,median_step_pct
+pre-1970,230,51,0.87,0.439,0.652,0.917,0.209,0.143,788,0.0,0.049,-33.9
+1970-1989,168,59,0.806,0.304,0.488,0.839,0.208,0.128,889,0.0,0.03,-39.7
+1990-2009,203,72,0.739,0.236,0.384,0.729,0.207,0.217,774,0.03,0.037,-34.0
+2010-present,186,74,0.718,0.22,0.355,0.699,0.188,0.139,973,0.07,0.06,-31.8

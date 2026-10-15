@@ -1,0 +1,153 @@
+program,location,rank_bootstrap_median,rank_90pct_low,rank_90pct_high,rank_full_data_mvr,rank_chair_or_pd_analysis,rank_first_chair_analysis,chairs_trained,self_hires,chairs_hired_from_any_program,graduates_listed,chairs_per_100_graduates
+Massachusetts General Hospital,"Boston, MA",3.0,1.0,16.049999999999983,2.3,4.0,3.0,41,4,5,188,21.8
+McGill / Montreal Neurological Inst.,"Montreal, QC",5.0,1.0,14.0,2.7,3.0,6.5,40,2,3,78,51.3
+Brigham and Women's Hospital,"Boston, MA",7.0,2.0,22.049999999999983,6.3,9.0,4.0,46,3,10,158,29.1
+Johns Hopkins University,"Baltimore, MD",8.0,1.0,24.0,5.0,8.0,12.0,31,4,7,149,20.8
+New York Presbyterian / Columbia,"New York, NY",8.0,1.0,18.0,12.3,8.0,6.0,47,8,10,200,23.5
+Washington University,"St Louis, MO",10.5,1.0,29.0,7.3,17.5,10.5,26,2,4,139,18.7
+Univ. of Virginia,"Charlottesville, VA",14.0,2.0,53.04999999999998,4.3,15.0,16.0,20,3,6,114,17.5
+Univ. of Washington,"Seattle, WA",17.5,4.0,45.04999999999998,12.0,11.0,14.0,12,1,4,131,9.2
+Univ. of Chicago,"Chicago, IL",19.5,3.0,72.24999999999991,20.7,34.0,45.0,14,6,13,67,20.9
+Univ. of Toronto,"Toronto, ON",20.0,6.0,51.099999999999966,21.0,19.0,27.5,13,5,7,250,5.2
+Univ. of Pennsylvania,"Philadelphia, PA",21.0,8.950000000000001,64.0,13.7,22.0,24.0,16,1,7,151,10.6
+Case Western Reserve,"Cleveland, OH",22.0,6.0,43.099999999999966,18.3,28.0,25.0,10,2,5,91,11.0
+Duke University Hospital,"Durham, NC",23.5,3.950000000000001,59.19999999999993,20.0,21.0,34.5,16,3,6,113,14.2
+Univ. of Minnesota,"Minneapolis, MN",24.0,3.0,67.04999999999998,25.3,36.5,18.0,15,4,8,145,10.3
+Univ. of California / San Francisco,"San Francisco, CA",26.0,6.0,60.0,8.3,26.0,18.0,23,4,7,157,14.6
+Univ. of Texas / Southwestern,"Dallas, TX",26.0,8.0,85.04999999999998,16.7,30.0,25.5,5,2,5,101,5.0
+New York Presbyterian / Cornell,"New York, NY",26.0,10.0,65.04999999999998,21.3,33.0,25.0,10,2,6,95,10.5
+Virginia Commonwealth University,"Richmond, VA",27.0,4.0,68.0,21.7,30.0,30.5,14,4,9,99,14.1
+Univ. of Michigan,"Ann Arbor, MI",27.0,10.0,53.04999999999998,25.7,36.0,31.5,19,2,6,146,13.0
+Montefiore Medical Center / Albert Einstein,"Bronx, NY",29.5,10.0,67.24999999999991,34.3,35.0,21.0,11,1,9,87,12.6
+Mayo Clinic,"Rochester, MN",30.5,6.950000000000001,71.0,41.0,22.5,27.0,22,8,10,255,8.6
+Univ. of Ottawa,"Ottawa, ON",31.5,2.0,125.19999999999992,16.3,27.0,28.5,1,0,0,23,4.3
+Mount Sinai (General surgery),"Chicago, IL",32.0,2.0,122.09999999999997,37.0,32.0,32.0,1,0,0,1,100.0
+Univ. of Florida / Gainesville,"Gainesville, FL",33.5,5.0,121.34999999999988,47.3,19.5,33.0,4,1,6,111,3.6
+Univ. of Southern California,"Los Angeles, CA",33.5,14.95,60.099999999999966,38.0,39.0,40.0,17,2,6,152,11.2
+Univ. of Illinois at Chicago,"Chicago, IL",40.0,4.950000000000001,103.04999999999998,37.3,32.0,29.5,14,3,6,86,16.3
+New York University,"New York, NY",40.0,7.0,105.09999999999997,72.7,32.5,42.5,7,0,4,104,6.7
+Vanderbilt University Medical Center,"Nashville, TN",41.0,13.900000000000002,77.19999999999993,35.0,52.0,37.5,9,1,4,118,7.6
+Univ. of California / Los Angeles,"Los Angeles, CA",42.0,12.850000000000003,90.14999999999996,24.7,33.0,50.5,5,1,4,136,3.7
+Temple University,"Philadelphia, PA",43.0,10.0,81.24999999999991,33.0,35.0,42.0,10,4,7,62,16.1
+Georgetown University,"Washington, DC",43.0,12.95,117.0,45.7,59.0,55.0,4,0,4,60,6.7
+Univ. of Pittsburgh,"Pittsburgh, PA",43.5,14.95,90.0,40.0,36.0,50.0,10,1,7,180,5.6
+Univ. of Wisconsin / Madison,"Madison, WI",43.5,14.95,120.04999999999998,39.0,49.5,45.0,2,0,3,89,2.2
+Barrow Neurological Institute,"Phoenix, AZ",44.0,6.950000000000001,98.09999999999997,58.3,57.0,43.0,9,1,4,99,9.1
+Univ. of Manitoba,"Winnipeg, MB",46.0,5.950000000000001,119.0,37.7,40.0,50.0,2,0,0,6,33.3
+Tufts Medical Center,"Boston, MA",47.0,11.900000000000002,107.0,31.7,30.5,48.0,6,2,5,57,10.5
+Univ. of Utah,"Salt Lake City, UT",47.0,22.0,87.09999999999997,53.7,70.0,48.5,7,0,5,73,9.6
+Northwestern University,"Chicago, IL",48.5,21.0,103.09999999999997,34.7,62.0,49.5,11,1,12,124,8.9
+Illinois Research / Educ. Hospital,,50.5,6.0,135.09999999999997,20.7,46.0,42.5,1,0,0,1,100.0
+Yale University,"New Haven, CT",51.0,11.95,113.0,31.0,43.5,39.0,7,3,5,99,7.1
+Mount Sinai,"New York, NY",51.0,15.0,100.0,58.0,56.0,51.5,8,2,7,130,6.2
+SUNY Brooklyn / Downstate (defunct in 2003),"Brooklyn, NY",52.0,18.950000000000003,105.0,42.0,57.0,47.5,6,1,6,23,26.1
+Albany Medical Center,"Albany, NY",53.5,3.0,140.04999999999998,59.0,123.0,86.0,5,4,7,57,8.8
+Univ. of Calgary,"Calgary, AB",55.0,9.0,137.0,41.3,50.0,52.0,1,0,0,19,5.3
+Mayo Foundation and Johns Hopkins U.,"Baltimore, MD",56.0,8.0,133.0,67.7,43.5,61.5,2,0,0,1,200.0
+Univ. of Iowa,"Iowa City, IA",56.0,10.900000000000002,119.04999999999998,44.3,51.0,50.0,5,0,4,104,4.8
+McGill U.,"Montreal, QC",57.5,7.950000000000001,131.04999999999998,97.3,77.0,62.5,1,0,0,2,50.0
+Univ. of Massachusetts,"Amherst, MA",57.5,14.95,139.04999999999998,44.7,50.5,54.0,1,0,4,4,25.0
+Univ. of Tennessee / Memphis,"Memphis, TN",58.5,16.950000000000003,126.04999999999998,44.3,68.0,66.0,7,3,7,168,4.2
+Univ. of Maryland,"College Park, MD",59.0,17.900000000000002,112.09999999999997,60.7,52.0,65.5,7,2,7,123,5.7
+Univ. of Cincinnati,"Cincinnati, OH",60.0,16.950000000000003,119.0,69.3,74.5,52.0,4,0,6,133,3.0
+Medical College of Wisconsin,"Milwaukee, WI",60.0,23.0,108.14999999999996,54.0,86.0,55.0,7,1,5,42,16.7
+Baylor College of Medicine,"Houston, TX",60.5,12.900000000000002,112.04999999999998,82.7,23.5,74.0,6,1,5,152,3.9
+Boston City Hospital,"Boston, MA",61.0,8.0,133.09999999999997,37.0,61.0,68.0,1,0,0,2,50.0
+Emory University,"Atlanta, GA",61.0,17.950000000000003,106.09999999999997,50.7,76.5,55.5,5,1,6,124,4.0
+Univ. of Texas / Galveston,"Galveston, TX",61.5,14.95,129.04999999999998,63.3,75.0,65.0,4,1,7,69,5.8
+Tulane University,"New Orleans, LA",65.0,15.95,138.0,84.0,86.0,94.5,6,2,6,81,7.4
+"Victoria Hospital in London, Ontario","London, Ontario",65.5,6.0,137.04999999999998,80.0,55.5,58.0,1,0,0,1,100.0
+Western University (Ontario),"London, ON",65.5,14.900000000000002,132.19999999999993,74.3,67.5,65.0,1,0,1,22,4.5
+Univ. of Texas / San Antonio,"San Antonio, TX",65.5,20.950000000000003,136.04999999999998,60.3,75.0,67.5,2,0,4,50,4.0
+White Memorial Adventist Hospital,"Los Angeles, CA",66.0,9.0,128.04999999999998,64.0,66.0,59.5,1,0,0,1,100.0
+Stanford University,"Stanford, CA",67.0,12.95,137.09999999999997,50.7,100.0,69.0,5,4,6,96,5.2
+Cleveland Clinic,"Cleveland, OH",67.0,30.0,107.04999999999998,72.0,89.0,51.0,11,4,10,118,9.3
+Univ. of California / San Diego,"San Diego, CA",70.0,29.9,142.04999999999998,69.3,71.5,73.0,1,0,4,54,1.9
+Dartmouth-Hitchcock,"Lebanon, NH",70.5,21.800000000000004,130.14999999999995,53.7,63.0,67.0,4,2,6,41,9.8
+Walter Reed,"Bethesda, MD",71.0,24.950000000000003,126.04999999999998,69.7,74.5,75.5,7,2,10,42,16.7
+Cedars of Lebanon,"Hollywood, CA",71.5,6.950000000000001,138.0,104.3,60.5,61.0,1,0,0,1,100.0
+Thomas Jefferson University,"Philadelphia, PA",72.0,22.0,134.14999999999995,74.0,47.0,69.0,3,1,9,86,3.5
+Rush MC / U. Chicago,"Chicago, IL",73.0,8.0,142.09999999999997,99.0,75.0,69.0,0,0,1,0,
+Univ. of Alabama,"Tuscaloosa, AL",73.0,29.0,134.0,50.0,79.5,70.0,3,1,5,76,3.9
+National Capital Consortium,"Bethesda, MD",74.0,19.9,134.09999999999997,87.0,88.5,70.5,6,4,6,30,20.0
+Oregon Health & Science University,"Portland, OR",74.0,31.85,118.04999999999998,76.7,55.5,74.0,5,1,7,80,6.2
+SUNY Syracuse,"Syracuse, NY",75.5,35.900000000000006,120.09999999999997,67.7,71.0,76.0,7,2,8,72,9.7
+Henry Ford Hospital,"Detroit, MI",76.0,37.95,126.04999999999998,75.0,65.0,76.0,3,0,7,77,3.9
+Univ. of Colorado,"Boulder, CO",77.0,31.950000000000003,121.04999999999998,78.0,83.5,69.0,4,0,8,72,5.6
+University of Miami / Jackson Health,"Miami, FL",78.0,30.950000000000003,138.09999999999997,71.3,72.0,84.5,2,0,4,113,1.8
+Univ. of Kentucky,"Lexington, KY",81.0,24.0,144.0,97.0,102.0,71.0,3,1,5,52,5.8
+Univ. of Rochester,"Rochester, NY",81.0,25.9,140.04999999999998,68.7,118.0,74.0,4,3,6,81,4.9
+"St. Vincent's Hospital, Jacksonville","Jacksonville, FL",81.5,15.95,144.04999999999998,73.7,91.5,92.5,0,0,1,2,0.0
+Mass General Brigham,Boston,82.5,11.0,146.0,86.7,78.0,,0,0,1,0,
+Texas A&M (Baylor Scott&White),"Temple, TX",82.5,14.900000000000002,148.0,79.3,93.0,77.5,0,0,1,6,0.0
+Univ. of Vermont,"Burlington, VT",83.0,22.0,134.19999999999993,92.0,74.0,77.0,2,0,5,40,5.0
+Wayne State University (defunct in 2020),"Detroit, MI",84.0,27.0,138.09999999999997,63.7,83.0,86.0,3,1,6,53,5.7
+Univ. of Kansas,"Lawrence, KS",84.5,28.85,127.04999999999998,91.0,84.5,82.0,4,2,7,71,5.6
+Houston Methodist Hospital,"Houston, TX",86.0,29.0,143.04999999999998,116.7,63.0,85.5,0,0,3,17,0.0
+Lahey Clinic,"Burlington, MA",86.0,38.95,146.0,62.0,84.0,86.0,2,1,7,8,25.0
+Rush MC / Presbyterian,"Chicago, IL",88.0,16.0,145.09999999999997,101.7,84.5,88.0,0,0,1,1,0.0
+George Washington University,"Washington, DC",88.0,41.900000000000006,131.04999999999998,89.7,97.0,87.0,3,0,6,72,4.2
+Univ. of Texas / Austin,"Austin, TX",88.5,29.9,147.04999999999998,100.0,98.0,93.0,0,0,2,0,
+Cooper at Rowan University / Philadelphia College of Osteopathic Medicine,"Camden, NJ",88.5,35.95,139.04999999999998,89.7,77.0,92.5,2,1,3,14,14.3
+Penn State,"Hershey, PA",89.0,39.95,140.14999999999995,60.0,80.0,73.5,1,0,7,39,2.6
+Ascension Providence Hospital / MSUCHM DO,"Southfield, MI",90.0,11.0,148.0,107.3,82.0,83.5,0,0,1,6,0.0
+Beaumont Health (Royal Oak & Dearborn),"Dearborn, MI",90.0,12.95,147.0,112.0,119.0,,0,0,1,0,
+Desert Regional Medical Center,"Palm Springs, CA",91.0,21.9,144.04999999999998,100.0,95.0,90.5,0,0,1,0,
+Zucker SOM Hofstra / Northwell,"Manhasset, NY",92.0,33.95,148.0,93.7,96.5,83.0,0,0,4,10,0.0
+Stony Brook Medical Center,"Stony Brook, NY",94.5,28.9,149.0,101.3,110.0,98.5,0,0,3,0,
+Indiana University,"Indianapolis, IN",94.5,47.900000000000006,146.04999999999998,75.0,76.0,100.5,2,1,6,107,1.9
+Wake Forest University,"Winston Salem, NC",95.0,33.900000000000006,142.0,102.7,74.5,97.0,4,2,5,59,6.8
+West Virginia University,"Morgantown, WV",96.0,49.75000000000001,139.0,95.7,99.5,91.5,2,0,7,33,6.1
+Rush University,"Chicago, IL",97.0,35.0,131.0,97.3,101.0,90.0,5,1,4,60,8.3
+Loyola University,"Maywood, IL",97.0,42.900000000000006,141.09999999999997,92.0,101.0,93.0,4,2,7,55,7.3
+Univ. of Missouri / Columbia,"Columbia, MO",98.0,34.95,146.04999999999998,93.7,123.0,100.0,1,1,4,58,1.7
+Univ. of California / Davis,"Davis, CA",98.0,43.8,142.04999999999998,112.7,106.0,102.0,1,1,5,50,2.0
+Univ. of North Carolina,"Chapel Hill, NC",98.0,53.95,145.0,92.7,97.5,98.5,1,0,11,46,2.2
+Mercy Hospital Pittsburgh,"Pittsburgh, PA",99.0,18.0,148.04999999999998,117.7,100.5,98.0,0,0,1,2,0.0
+Medical College of Pennsylvania / Drexel (defunct),"Philadelphia, PA",99.5,21.85,144.04999999999998,112.7,89.0,81.5,0,0,1,1,0.0
+Inova Fairfax Medical Campus,"Falls Church, VA",101.0,28.950000000000003,150.0,133.0,108.0,,0,0,1,1,0.0
+Ohio State University,"Columbus, OH",101.0,46.0,142.0,120.3,103.0,97.5,1,0,5,108,0.9
+Eastern Virgina (defunct in 1995),,101.0,50.900000000000006,145.0,64.3,113.5,108.0,0,0,4,0,
+Univ. of Louisville,"Louisville, KY",101.0,52.95,147.04999999999998,127.3,114.0,102.0,2,1,7,68,2.9
+Riverside University Health System,"Moreno Valley, CA",104.0,23.65000000000001,149.0,83.3,120.0,106.5,0,0,1,11,0.0
+Spectrum Health / Michigan State University,"Grand Rapids, MI",106.0,32.95,149.04999999999998,126.3,111.5,102.0,0,0,2,3,0.0
+UMDNJ / Robert Wood Johnson,"Newark, NJ",106.0,40.85,145.04999999999998,101.7,102.0,95.0,0,0,3,0,
+Hahnemann U./Medical Col. Of Pennsylvania (became Drexel in 2002),"Philadelphia, PA",106.0,56.95,146.04999999999998,108.0,92.0,111.0,4,1,8,8,50.0
+Carle BroMenn Medical Center,"Normal, IL",107.0,33.75000000000001,148.0,107.3,119.0,108.0,0,0,2,0,
+Univ. of Mississippi,"University, MS",107.0,40.95,147.0,83.7,126.5,100.0,3,2,5,43,7.0
+Beth Israel Deaconess Medical Center,"Boston, MA",108.0,50.95,148.0,108.3,111.0,105.0,0,0,7,4,0.0
+Univ. of South Florida,"Tampa, FL",110.0,41.0,150.0,93.3,113.5,108.0,0,0,2,51,0.0
+Medical University of South Carolina,"Charleston, SC",110.0,45.900000000000006,148.0,102.7,123.0,102.5,1,1,6,60,1.7
+Mayo Clinic Arizona,"Phoenix, AZ",110.5,41.95,149.0,96.7,104.0,100.5,0,0,2,1,0.0
+Univ. of Connecticut,"Storrs, CT",111.0,51.0,148.0,120.7,109.0,111.0,0,0,6,2,0.0
+Univ. of Nebraska,"Omaha, Nebraska",111.5,45.900000000000006,147.04999999999998,131.7,116.5,107.0,1,1,6,34,2.9
+Southern Illinois University,"Carbondale, IL",113.0,40.0,147.04999999999998,85.3,115.0,114.0,0,0,2,2,0.0
+Univ. of Illinois / Peoria,"Peoria, IL",113.0,50.95,149.04999999999998,126.7,119.5,110.0,3,3,7,38,7.9
+Ochsner Clinic,"Jefferson, LA",114.0,48.85,149.04999999999998,126.3,119.0,113.0,0,0,5,0,
+National Institutes of Health,"Bethesda, MD",114.0,62.8,146.0,117.3,122.5,107.5,0,0,7,3,0.0
+Brown University,"Providence, RI",115.0,51.85,149.0,111.7,47.5,118.5,1,1,7,39,2.6
+Westchester Medical Center / New York Medical College,"Valhalla, NY",116.0,60.0,147.0,131.0,104.0,107.5,0,0,7,29,0.0
+Louisiana State Univ. / New Orleans,"New Orleans, LA",116.5,57.75000000000001,147.04999999999998,122.0,103.0,123.0,0,0,6,38,0.0
+Univ. of Puerto Rico,"San Juan, Puerto Rico",117.5,65.9,148.04999999999998,98.0,117.5,115.0,1,1,5,37,2.7
+Mayo Clinic Jacksonville,"Jacksonville, FL",118.0,37.900000000000006,148.04999999999998,113.0,123.0,80.0,0,0,3,5,0.0
+St. Louis University,"St. Louis, MO",118.0,59.95,150.0,119.3,94.0,122.0,0,0,4,35,0.0
+Univ. of New Mexico,"Albuquerque, NM",120.0,71.9,149.04999999999998,129.3,136.0,121.0,0,0,10,20,0.0
+Stroger Hospital (Cook County),"Chicago, IL",120.5,64.85,149.0,127.0,118.5,112.0,2,0,13,5,40.0
+Carilion Clinic - Virginia Tech,"Roanoke, VA",121.0,33.0,149.04999999999998,107.3,130.0,116.0,0,0,4,16,0.0
+Loma Linda University,"Loma Linda, CA",121.0,64.75,145.04999999999998,136.0,121.0,115.0,1,0,8,43,2.3
+Cedars-Sinai Medical Center,"Los Angeles, CA",121.0,68.55000000000001,151.0,131.3,136.5,115.0,0,0,7,18,0.0
+Rutgers / New Jersey Medical School,"Newark, NJ",122.0,58.95,151.0,122.0,110.0,107.5,0,0,7,30,0.0
+Univ. of Texas / Houston,"Houston, TX",122.0,65.80000000000001,151.0,97.7,120.0,117.0,0,0,6,24,0.0
+Allegheny Health Network-Allegheny General Hospital,"Pittsburgh, PA",123.0,54.0,149.0,105.3,137.0,121.5,0,0,3,34,0.0
+Boston Medical Center,"Boston, MA",124.0,66.9,149.0,123.3,114.0,117.5,0,0,5,0,
+Howard University,"Washington, DC",124.5,71.95,150.0,116.7,129.5,122.5,0,0,6,0,
+Geisinger Health System,"Danville, PA",125.0,62.0,150.0,123.3,131.5,112.0,0,0,8,9,0.0
+Louisiana State Univ. / Shreveport,"Shreveport, LA",126.0,82.7,149.0,122.3,126.0,131.0,0,0,5,40,0.0
+Carolinas Medical Center,"Charlotte, NC",126.5,41.650000000000006,151.0,127.3,116.5,121.5,0,0,2,4,0.0
+Univ. of Oklahoma,"Norman, OK",127.0,84.0,150.0,131.3,120.0,126.0,0,0,11,83,0.0
+Univ. of Arizona,"Tuscon, AZ",128.0,79.9,150.0,138.7,128.5,130.0,0,0,11,16,0.0
+Univ. of California / Irvine,"Irvine, CA",129.5,80.9,151.0,137.0,131.0,126.0,0,0,10,31,0.0
+National Naval Medical Center (NNMC-Bethesda),"Bethesda, MD",130.0,74.7,151.0,134.0,132.0,126.0,1,1,6,19,5.3
+Univ. of Arkansas,"Fayetteville, AR",132.0,93.9,151.0,146.3,136.0,130.0,0,0,6,49,0.0
+Medical College of Georgia,"Augusta, GA",134.0,93.9,150.0,140.3,138.5,132.5,0,0,7,64,0.0
+SUNY Buffalo,"Buffalo, NY",139.0,91.95,152.0,142.7,128.5,132.5,1,1,8,88,1.1
